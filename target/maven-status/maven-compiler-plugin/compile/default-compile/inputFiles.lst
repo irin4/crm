@@ -1,0 +1,13 @@
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/service/ContactService.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/action/ContactAction.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/dao/EchangeDAO.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/entity/Contact.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/serviceImpl/EntrepriseServiceImpl.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/dao/ContactDAO.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/action/EntrepriseAction.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/entity/Echange.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/dao/EntrepriseDAO.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/entity/Entreprise.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/service/EntrepriseService.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/entity/Statut.java
+/home/stagiaire/POE/workspace/strutsCRM/src/main/java/fr/treeptik/serviceImpl/ContactServiceImpl.java
